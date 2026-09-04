@@ -1,52 +1,22 @@
-# Temporary & Cache Files
-~$*
-.DS_Store
-Thumbs.db
+# Hardware Simulation Outputs & Compiles
+hardware/rtl/*.vcd
+hardware/rtl/*.out
+hardware/rtl/*.gtkw
 
-# Data & Archives
-data/
-*.zip
-*.tar.gz
-
-# Python Bytecode & Cache
-__pycache__/
-src/__pycache__/
-*.py[cod]
-
-# Credentials & Environment Secrets
-.env
-.env.*
-client_secret.json
-*.pem
-*.key
-
-# YouTube OAuth Tokens & Rendered Video Artifacts
-token.json
-data/videos/
-*.mp4
-*.wav
-*.png
-
-
-# YouTube OAuth Tokens & Rendered Video Artifacts
-token.json
-data/videos/
-*.mp4
-*.wav
-*.png
-
-# Local Data & Render Outputs
-data/videos/*.mp4
-data/videos/*.mp3
-data/*.json
-
-# Google OAuth Secrets
-client_secret.json
-token.json
-
-# Python Cache
-__pycache__/
+# Python Cache & Virtual Environment
+.venv/
+**/__pycache__/
 *.pyc
-.env
 
-hardware/rtl/
+# Local Media Renders & Binaries
+*.bin
+queue/
+videos/
+
+# VS Code & Local Settings
+.vscode/
+*.code-workspace
+
+# Analytics & Local Telemetry Logs
+docs/traffic_clones.json
+docs/traffic_views.json
