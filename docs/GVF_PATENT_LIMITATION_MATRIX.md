@@ -1,4 +1,4 @@
-# TCPartsDirect, LLC — Provisional Patent Limitation Matrix
+# GVF Dynamics, LLC — Provisional Patent Limitation Matrix
 **Application No.:** 64/134,522  
 **Target Non-Provisional Status:** Hardware-Centered Independent Claims (35 U.S.C. §§ 101, 112)
 

@@ -1,6 +1,6 @@
 # GVF Engine™: Commercial Access & Licensing Policy
 
-**Copyright (c) 2026 TCPartsDirect, LLC. All rights reserved.**  
+**Copyright (c) 2026 GVF Dynamics, LLC. All rights reserved.**  
 **Sole Inventor:** Antonio Gonzalez  
 **Patent Status:** Intellectual Property Pending / Patent Reservation Active  
 
@@ -54,7 +54,7 @@ The GVF technology ecosystem is strictly separated into two distinct layers:
 
 SoC architectural teams, edge-AI chipmakers, and hardware engineering groups seeking Technical Evaluation Agreements (TEAs) or synthesizable RTL access should contact:
 
-* **Entity:** TCPartsDirect, LLC  
+* **Entity:** GVF Dynamics, LLC  
 * **Lead Inventor:** Antonio Gonzalez  
 * **Inquiries & TEAs:** contact@gvfdynamics.com  
 * **Official Repository:** [github.com/GVF-Dynamics-LLC/GVF-Engine-Sim](https://github.com/GVF-Dynamics-LLC/GVF-Engine-Sim)  

@@ -1,5 +1,5 @@
 # Gated Vector Field (GVF) Architecture: Bridging the Edge AI Energy Wall
-**Author:** Antonio Gonzalez, Founder & Inventor, TCPartsDirect, LLC  
+**Author:** Antonio Gonzalez, Founder & Inventor, GVF Dynamics, LLC  
 **Date:** August 2026 | *Confidential & Proprietary. U.S. Patent Pending.*
 
 ## Abstract
@@ -36,3 +36,4 @@ Reintroducing the AC wave regularizer clawed back a +0.37% error reduction and l
 
 ## 5. Deployment & Hardware Portability
 Hardware abstraction testing on generic PyNN APIs confirmed that the GVF carrier wave maps directly onto standard leaky integrate-and-fire (LIF) membrane voltage arrays without custom lower-level drivers. It is ready for physical integration onto hardware such as SpiNNaker, BrainScaleS-2, or Intel Loihi 2.
+

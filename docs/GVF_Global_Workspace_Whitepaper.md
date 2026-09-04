@@ -1,6 +1,6 @@
 # Dynamic Carrier-Wave Regularization in Neuromorphic Global Workspaces
 **A Mathematical Framework for Low-Power Temporal Coherence and Environmental Harmonic Alignment**  
-**Author:** Antonio Gonzalez, Founder & Inventor, TCPartsDirect, LLC  
+**Author:** Antonio Gonzalez, Founder & Inventor, GVF Dynamics, LLC  
 **Date:** August 2026 | *Confidential & Proprietary. U.S. Patent Pending.*
 
 ## Abstract
@@ -41,3 +41,4 @@ By aligning internal threshold oscillations with external physical cadences, GVF
 
 ## 5. Architectural Deployment & Portability
 Hardware abstraction testing confirms that the GVF carrier wave maps directly onto standard leaky integrate-and-fire (LIF) membrane arrays via generic PyNN interfaces. The system requires no custom lower-level drivers, making it immediately portable to physical neuromorphic substrates including SpiNNaker, BrainScaleS-2, and Intel Loihi 2.
+

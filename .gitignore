@@ -12,6 +12,17 @@ hardware/rtl/*.gtkw
 *.bin
 queue/
 videos/
+*.mp3
+*.mp4
+
+# API Keys, Credentials & OAuth Tokens
+.env
+client_secret.json
+token.json
+
+# Local Generated Data & Datasets
+data/
+!data/.gitkeep
 
 # VS Code & Local Settings
 .vscode/
