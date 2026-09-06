@@ -1,33 +1,36 @@
-# Hardware Simulation Outputs & Compiles
-hardware/rtl/*.vcd
-hardware/rtl/*.out
-hardware/rtl/*.gtkw
+# Large Datasets & NMNIST
+data/
+*.zip
+*.tar.gz
+*.bin
 
-# Python Cache & Virtual Environment
-.venv/
+# EDA Simulation Outputs & Waveforms
+hardware/rtl/*.vcd
+hardware/rtl/*.gtkw
+hardware/rtl/*.out
+hardware/rtl/sim_build/
+*.vvp
+*.vcd
+*.gtkw
+*.out
+
+# Media Renders
+queue/
+videos/
+*.mp4
+*.mp3
+*.jpg
+TEMP_MPY_*
+
+# Security & Secrets
+token.json
+client_secret.json
+.env
+
+# Python Bytecode
 **/__pycache__/
 *.pyc
 
-# Local Media Renders & Binaries
-*.bin
-queue/
-videos/
-*.mp3
-*.mp4
-
-# API Keys, Credentials & OAuth Tokens
-.env
-client_secret.json
-token.json
-
-# Local Generated Data & Datasets
-data/
-!data/.gitkeep
-
-# VS Code & Local Settings
+# Local Garbage Files
+from src.social_publisher*
 .vscode/
-*.code-workspace
-
-# Analytics & Local Telemetry Logs
-docs/traffic_clones.json
-docs/traffic_views.json
